@@ -1,4 +1,4 @@
-// This file holds all function declarations for input/output
+// This file holds non-namespace function declarations for input/output
 
 #ifndef IO_H
 #define IO_H
